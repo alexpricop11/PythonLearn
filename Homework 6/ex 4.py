@@ -1,0 +1,10 @@
+user_info = []
+numele = input("Introduceti numele: ")
+user_info.append(numele)
+prenumele = input("Introduceti prenumele: ")
+user_info.append(prenumele)
+varsta = input("Introduceti varsta: ")
+user_info.append(varsta)
+inaltimea = input("Introduceti inaltimea: ")
+user_info.append(inaltimea)
+print(f"{numele} {prenumele} are {varsta} ani si inaltimea de {inaltimea}")

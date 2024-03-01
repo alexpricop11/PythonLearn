@@ -1,0 +1,34 @@
+{
+     "2024-01-01": [
+          {
+               "categoria": "Transport",
+               "suma": 200.0
+          },
+          {
+               "categoria": "Transport",
+               "suma": 200.0
+          },
+          {
+               "categoria": "Transport ",
+               "suma": 400.0
+          },
+          {
+               "categoria": "Transport",
+               "suma": 200.0
+          },
+          {
+               "categoria": "Transport",
+               "suma": 400.0
+          }
+     ],
+     "2024-01-02": [
+          {
+               "categoria": "Mancare",
+               "suma": 250.0
+          },
+          {
+               "categoria": "Mancare",
+               "suma": 250.0
+          }
+     ]
+}
